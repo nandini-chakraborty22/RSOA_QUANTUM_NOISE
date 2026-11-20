@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below, together with the original study."
+title: "How far is a reflective SOA from the quantum noise limit?"
+type: software
+authors:
+  - family-names: Chakraborty
+    given-names: Nandini
+    affiliation: "School of Electronics Engineering, Vellore Institute of Technology, Chennai"
+license: MIT
+repository-code: "https://github.com/YOUR-USERNAME/rsoa-noise-quantum-limit"
+references:
+  - type: software
+    title: "RSOA WDM-PON device-to-system simulation"
+    authors:
+      - family-names: Chakraborty
+        given-names: Nandini
+    doi: 10.5281/zenodo.24372240
+    year: 2026
